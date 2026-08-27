@@ -19,8 +19,3 @@ The design includes a VHDL testbench to generate the clock and verify the counte
 - VHDL
 - AMD Vivado
 - Nexys A7 / Artix-7
-
-## Next Steps
-
-- Implement the counter on the Nexys A7
-- Display the counter value using the onboard LEDs
