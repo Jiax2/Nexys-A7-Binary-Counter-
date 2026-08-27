@@ -1,0 +1,20 @@
+# Vivado generated directories
+BinaryCounter.cache/
+BinaryCounter.hw/
+BinaryCounter.ip_user_files/
+BinaryCounter.sim/
+BinaryCounter.runs/
+BinaryCounter.gen/
+
+# Vivado temporary files
+.Xil/
+*.jou
+*.log
+*.str
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# VS Code
+.vscode/
